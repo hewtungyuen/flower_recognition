@@ -1,4 +1,4 @@
-# Flower image recognition with CNN
+# Flower image recognition 
 
 The dataset contains a total of 4242 labeled images of daisies, dandelions, roses, sunflowers and tulips. 
 
